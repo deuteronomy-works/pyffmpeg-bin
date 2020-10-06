@@ -1,11 +1,13 @@
 # pyffmpeg-bin
-Same as pyffmpeg but is unserialised.
+
 FFmpeg wrapper for python.
 
-The beautiful thing about it is that it comes with its own FFmpeg executable. It is compressed, making it the smallest you can find. And becuase its cross-platform and python 3, it is the only option available for building cross-platform apps with ffmpeg in python.
+Same as pyffmpeg but its unserialised.
 
 This unserialised version means the ffmpeg binary comes with it as a binary and needs
 not be built at runtime.
+
+The beautiful thing about it is that it comes with its own FFmpeg executable. It is compressed, making it the smallest you can find. And becuase its cross-platform and python 3, it is the only option available for building cross-platform apps with ffmpeg in python.
 
 
 ## Installation
