@@ -6,7 +6,10 @@ with open('README.md', 'r') as rm:
 
 setup(
     name='pyffmpeg-bin',
-    version='1.8',
+    version='1.8.0.1',
+    package_data={
+        '': ['ffmpeg', 'ffmpeg.exe']
+    },
     description='FFmpeg wrapper for python',
     long_description=long_desc,
     long_description_content_type='text/markdown',
