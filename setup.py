@@ -8,7 +8,7 @@ setup(
     name='pyffmpeg-bin',
     version='1.8.0.1',
     package_data={
-        '': ['ffmpeg', 'ffmpeg.exe']
+        '': ['static/bin/*/ffmpeg', 'static/bin/windows/ffmpeg.exe']
     },
     description='FFmpeg wrapper for python',
     long_description=long_desc,
