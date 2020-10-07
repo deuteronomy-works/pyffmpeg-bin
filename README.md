@@ -1,4 +1,4 @@
-# pyffmpeg-bin
+# pyffmpeg-bin [![Downloads](https://pepy.tech/badge/pyffmpeg-bin)](https://pepy.tech/project/pyffmpeg-bin)
 
 FFmpeg wrapper for python.
 
