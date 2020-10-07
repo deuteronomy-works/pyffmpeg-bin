@@ -11,7 +11,7 @@ The beautiful thing about it is that it comes with its own FFmpeg executable. It
 
 
 ## Installation
-    pip install pyffmpeg
+    pip install pyffmpeg-bin
 
 ## Usage
 ```python
